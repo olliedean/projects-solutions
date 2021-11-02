@@ -1,2 +1,2 @@
 # projects-solutions
-Solutions to karan/Projects
+All my solutions to [karan/projects](https://github.com/karan/Projects)
